@@ -1,3 +1,4 @@
+text-allign :center
 # Hi ...I'm Hasibul Alam 👋
 
 <!--
