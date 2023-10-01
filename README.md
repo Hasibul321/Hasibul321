@@ -1,6 +1,6 @@
-<center>
- # Hi ...I'm Hasibul Alam 👋
-</center>
+<p align="center">
+ #Hi...I'm Hasibul Alam 
+</p>
  
 
 <!--
