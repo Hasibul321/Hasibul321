@@ -1,5 +1,5 @@
-text-allign :center
-# Hi ...I'm Hasibul Alam 👋
+<center># Hi ...I'm Hasibul Alam 👋</center>
+ 
 
 <!--
 **Hasibul321/Hasibul321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
